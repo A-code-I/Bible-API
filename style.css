@@ -26,6 +26,12 @@ body{
     box-shadow: 0 10px 10px 10px rgba(0,0,0,0.2);
 }
 
+/* .search{
+    /* text-align:top;
+    display: flex;
+    align-items:start;
+    justify-content:center;  */
+} */
 .quote-text {
     font-size: 2.75rem;
 }
@@ -74,11 +80,11 @@ button:active{
 }
 
 .twitter-button:hover{
-    color: #38a;
+    color: rgb(20, 167, 0);
 }
 
 .fa-twitter{
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 /* loader */
